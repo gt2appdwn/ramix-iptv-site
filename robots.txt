@@ -1,0 +1,9 @@
+# Robots.txt for ramix iptv​
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://ramixiptv​4k.store/sitemap.xml
